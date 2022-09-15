@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="text_goes_here"><![CDATA[<Text Goes Here>]]></string>
+    <string name="say_hello">SAY HELLO</string>
+</resources>
